@@ -53,3 +53,7 @@ O script procura o perfil do Firefox no caminho fornecido no arquivo `config.jso
 
 Se você quiser contribuir, sinta-se à vontade para fazer um fork do repositório e enviar pull requests!
 
+## Desenvolvedores
+| [<img src="https://avatars.githubusercontent.com/u/49447595?v=4" width=115><br><sub>Renato Maldonado</sub>](https://github.com/renthus)
+| :---: |
+
