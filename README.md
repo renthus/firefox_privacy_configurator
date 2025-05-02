@@ -51,11 +51,7 @@ As configurações ajustadas impedem o armazenamento de histórico, bloqueiam va
 
 O script procura o perfil do Firefox no caminho fornecido no arquivo `config.json`, e aplica configurações de privacidade, como:
 
-- Desativação de cache e coleta de dados.
-- Desativação de funcionalidades de rastreamento e geolocalização.
-- Alteração de várias configurações de segurança e privacidade no arquivo `prefs.js`.
-
-## Configurações Detalhadas
+### Configurações Detalhadas
 
 | Configuração | Descrição | Benefício | Risco se não aplicada |
 |--------------|-----------|-----------|------------------------|
