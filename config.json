@@ -1,0 +1,11 @@
+{
+    "firefox_profile_path": "C:\\Users\\admin\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\5gcdbvkn.default-release-1746206833644",
+    "instructions": [
+      "1. Abra o Firefox.",
+      "2. Digite 'about:support' na barra de endereços e pressione Enter.",
+      "3. Localize a seção 'Diretório de Perfil'.",
+      "4. Copie o caminho completo exibido em 'Diretório de Perfil'.",
+      "5. Cole esse caminho no campo 'firefox_profile_path' acima, entre as aspas."
+    ]
+  }
+  
